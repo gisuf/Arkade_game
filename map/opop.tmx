@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="15" height="25" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="19">
+ <tileset firstgid="1" source="ships_packed.tsx"/>
+ <layer id="4" name="Слой тайлов 1" width="15" height="25">
+  <data encoding="base64" compression="zlib">
+   eJytkUEKwCAMBLXVHvr/B/VpxVtYdLOJBgIGdxyCtexVhfkq5RuNZ5XP+qPejB/frKLX3kecnm+Wn92vfH3jb1ZsF3b0vIxXWOQHg83YZni2RxP9Sr2mGWtzzMlyjGN1ixzmsj6VfZz5lBv5iPekX/X+2TQYQw==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="15" height="25" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="19">
+ <tileset firstgid="1" source="ships_packed.tsx"/>
+ <layer id="4" name="guys" width="15" height="25" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAuYGJgOADC6GxaA3rYi81MYuxFlqfEPpj5uMwhJI8OWCkII1x6iTGTEjXkuBmkBx3jU89CpLnEqiMGcCFheqoDAWYi1NBCHbUAGwH+SLUXADwqGbM=
+  </data>
+ </layer>
+</map>
